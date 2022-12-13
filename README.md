@@ -1,4 +1,5 @@
-About Me
+**About Me**
+
 - 👋 Hi, I’m @krish
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning M.Sc. in Computer Science
